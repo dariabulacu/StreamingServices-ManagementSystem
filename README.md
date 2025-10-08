@@ -110,9 +110,3 @@ Programul va afișa meniul în consolă. Urmează instrucțiunile din meniu pent
 - Folosește un IDE (Code::Blocks) pentru depanare pas-cu-pas.
 - Curăță binarele vechi când faci schimbări majore: șterge `bin/` și `obj/` și recompilează.
 
-## Sugestii de îmbunătățire (posibile extensionări)
-
-- Muta stocarea pe SQLite pentru persistență robustă.
-- Adăugă validare și tratare erori la citirea fișierelor.
-- Scrie teste unitare (ex: Google Test sau Catch2) pentru logica aplicației.
-- Adaugă un script de build (PowerShell `.ps1` sau `.bat`) pentru ușurință.
