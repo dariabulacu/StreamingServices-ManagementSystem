@@ -1,0 +1,16 @@
+Game of Thrones,Serial,Fantasy,8.9,8,234
+The Dark Knight,Film,Action,8.4,Cristopher Nolan,156
+The Shawshank Redemption,Film,Drama,7.6,Frank Darabont,135
+Chernobyl,Documentar, Drama,7.9,6,564
+Interstellar,Film,Sci-Fi,9.6,Cristopher Nolan,200
+The Office,Serial,Comedy,8.1,10,201
+Parasite,Film,Thriller,8.7,Joon-Ho Bong,160
+Stranger Things,Serial,Sci-Fi,6.8,5,62
+Narcos,Serial,Crime,7.4,7,89
+Forrest Gump,Film,Drama,8.6,Robert Zemeckis,124
+The Menendez Brothers,Documentar,Crima,7.6,5,280
+Twin Peaks: Fire Walk with Me,Film,Mystery,7.3,David Lynch,134.0
+Watchmen,Miniseries,Superhero,8.2,Damon Lindelof,9,60.0
+Watchmen,Film,Superhero,7.6,Zack Snyder,162.0
+Sherlock,Miniseries,Crime,9.1,Mark Gatiss,9,90.0
+Sherlock Holmes,Film,Mystery,7.6,Guy Ritchie,128.0

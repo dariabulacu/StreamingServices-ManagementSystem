@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1742792770 source:c:\users\user\desktop\poo\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<stdexcept>
+	<cstdlib>
+
+1744561232 source:c:\users\user\desktop\bulacu_daria_proiect1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<vector>
+	<memory>
+	<stdexcept>
+	<cstdlib>
+
+1744637655 source:c:\users\user\desktop\bulacu_daria_proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<vector>
+	<memory>
+	<stdexcept>
+	<cstdlib>
+
+1748232082 source:c:\users\user\onedrive - unibuc.ro\desktop\bulacu_daria_proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+	<vector>
+	<memory>
+	<string>
+	<stdexcept>
+	<cstdlib>
+	<list>
+	<set>
+	<algorithm>
+	<numeric>
+	"Menu.h"
+
+1747985849 c:\users\user\onedrive - unibuc.ro\desktop\bulacu_daria_proiect2\include\menu.h
+	<map>
+	<string>
+	<functional>
+	<iostream>
+	<limits>
+
+1747985871 source:c:\users\user\onedrive - unibuc.ro\desktop\bulacu_daria_proiect2\src\menu.cpp
+	"Menu.h"
+
+1747985849 c:\users\user\onedrive - unibuc.ro\desktop\bulacu_daria_proiect2\menu.h
+	<map>
+	<string>
+	<functional>
+	<iostream>
+	<limits>
+
